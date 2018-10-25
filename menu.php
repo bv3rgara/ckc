@@ -191,11 +191,17 @@
 				}?>
 			</ul>
 		</li>
-		<li><a href="#">CAMBIAR</a>
+		<li><a href="#">GRAFICO</a>
 			<ul>
-				<li><a href="/ckc/cambiar_pass.php">Contraseña</a></li>				
+				<li><a href="/ckc/graf_lineal.php">Grafico Lineal</a></li>		
+				<li><a href="/ckc/graf_bar.php">Grafico Barra</a></li>
 			</ul>
 		</li>
-		<li><a href="/ckc/logout.php">SALIR</a></li>
+		<li><a href="#">SALIR</a>
+			<ul>
+				<li><a href="/ckc/cambiar_pass.php">Cambiar Clave</a></li>
+				<li><a href="/ckc/logout.php">Cerrar Sesion</a></li>
+			</ul>
+		</li>
 	</ul>
 </div>
